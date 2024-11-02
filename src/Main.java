@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Привет Мир!");
         //task1
-        var dog=8.0;
+         var dog=8.0;
         System.out.println(dog);
         var cat=3.6;
         System.out.println(cat);
@@ -10,38 +10,38 @@ public class Main {
         System.out.println(paper);
 
         //task2
-        var result1=dog+4;
-        System.out.println(result1);
-        var result2=cat+4;
-        System.out.println(result2);
-        var result3=paper+4;
-        System.out.println(result3);
+        dog=dog+4;
+        System.out.println(dog);
+        cat=cat+4;
+        System.out.println(cat);
+        paper=paper+4;
+        System.out.println(paper);
 
         //task3
-        var result4=dog-3.5;
-        System.out.println(result4);
-        var result5=cat-3.5;
-        System.out.println(result5);
-        var result6=paper-3.5;
-        System.out.println(result6);
+        dog=dog-3.5;
+        System.out.println(dog);
+        cat=cat-3.5;
+        System.out.println(cat);
+        var result1=paper-3.5;
+        System.out.println(result1);
 
         //task4
         var friend=19;
         System.out.println(friend);
-        var result7=friend+2;
-        System.out.println(result7);
-        var result8=friend/7;
-        System.out.println(result8);
+        friend=friend+2;
+        System.out.println(friend);
+        friend=friend/7;
+        System.out.println(friend);
 
         //task5
         var frog=3.5;
         System.out.println(frog);
-        var result9=frog*10;
-        System.out.println(result9);
-        var result10=frog/3.5;
-        System.out.println(result10);
-        var result11=frog+4;
-        System.out.println(result11);
+        frog=frog*10;
+        System.out.println(frog);
+        frog=frog/3.5;
+        System.out.println(frog);
+        frog=frog+4;
+        System.out.println(frog);
 
         //task6
         var massBoxer1=78.2;
