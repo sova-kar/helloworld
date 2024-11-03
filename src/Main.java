@@ -68,6 +68,7 @@ public class Main {
         System.out.println(person);
         var morePeople=person*y;
         System.out.println("Если в компании работает" + " " + person + " " + "человека" + " " + "то всего" + " " + morePeople + " " + "часов работы может быть поделено между сотрудниками" );
+        
 
     }
 }
