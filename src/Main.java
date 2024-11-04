@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Привет Мир!");
-        //task1
+
          var dog=8.0;
         System.out.println(dog);
         var cat=3.6;
@@ -203,17 +203,5 @@ public class Main {
         System.out.println("Денис теперь получает"+" "+ newSalary2+" "+"рублей,"+" "+ "годовой доход вырос на"+" "+difference2+" "+"рублей");
         int difference3=yearSalary3-worker3;
         System.out.println("Кристина теперь получает"+" "+ newSalary3+" "+"рублей,"+" "+ "годовой доход вырос на"+" "+difference3+" "+"рублей");
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
